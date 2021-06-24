@@ -1,0 +1,236 @@
+body {
+  position: relative;
+  width: 1440px;
+  height: 3769px;
+
+  background: linear-gradient(180deg, #7400b8 0%, #31014d 100%);
+
+  margin: 0;
+  padding: 0;
+}
+/* color */
+
+.main-color {
+  color: #5390d9;
+}
+
+.secondary-color {
+  color: #b1edf5;
+}
+
+.text-color {
+  color: #caf0f8;
+}
+
+/* heading */
+
+.heading-1 {
+  font-family: Kanit;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 110px;
+  /* or 239% */
+
+  text-align: center;
+}
+
+.heading-2 {
+  font-family: Kanit;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 110px;
+}
+
+.paragraph {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+/* custom */
+.judul-awal {
+  position: absolute;
+  width: 600x;
+  height: 79px;
+  left: 146px;
+  top: 161px;
+}
+
+.thebestclassever {
+  position: absolute;
+  width: 481px;
+  height: 75px;
+  left: 116px;
+  top: 240px;
+}
+
+.p1 {
+  position: absolute;
+  width: 515px;
+  height: 117px;
+  left: 160px;
+  top: 358px;
+}
+.contact-up {
+  position: absolute;
+  width: 163px;
+  height: 67px;
+  left: 160px;
+  top: 491px;
+
+  border-radius: 10px;
+
+  /* Main */
+
+  background: #5390d9;
+}
+
+.foto-atas {
+  position: absolute;
+  width: 586.37px;
+  height: 443.82px;
+  left: 764px;
+  top: 156px;
+}
+
+.activity-tx {
+  position: absolute;
+  width: 791px;
+  height: 167px;
+  left: 737px;
+  top: 649px;
+
+  font-family: Kanit;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 144px;
+  line-height: 110px;
+  /* or 76% */
+
+  letter-spacing: 0.1em;
+}
+
+.activty {
+  position: absolute;
+  width: 284px;
+  height: 75px;
+  left: 160px;
+  top: 708px;
+}
+
+.independence {
+  position: absolute;
+  width: 1128px;
+  height: 780px;
+  left: 156px;
+  top: 816px;
+}
+
+.museum-gajah {
+  position: absolute;
+  width: 1122px;
+  height: 788px;
+  left: 156px;
+  top: 1748px;
+}
+.contact-2 {
+  position: absolute;
+  width: 1122px;
+  height: 140px;
+  left: 156px;
+  top: 2639px;
+}
+
+.contact-midle {
+  position: absolute;
+  width: 163px;
+  height: 67px;
+  left: 1091px;
+  top: 2677px;
+  border-radius: 10px;
+
+  background: #5390d9;
+}
+
+.class-structure {
+  position: absolute;
+  width: 435px;
+  height: 108px;
+  left: 502px;
+  top: 2839px;
+}
+
+.img-structure-head {
+  position: absolute;
+  width: 182px;
+  height: 235px;
+  left: 229px;
+  top: 2995px;
+}
+
+.img-structure-vice {
+  position: absolute;
+  width: 202px;
+  height: 237px;
+  left: 419px;
+  top: 2995px;
+}
+
+.img-structure-secertary {
+  position: absolute;
+  width: 202px;
+  height: 237px;
+  left: 619px;
+  top: 2995px;
+}
+
+.img-structure-tr1 {
+  position: absolute;
+  width: 202px;
+  height: 238px;
+  left: 818px;
+  top: 2995px;
+}
+
+.img-structure-tr2 {
+  position: absolute;
+  width: 202px;
+  height: 239px;
+  left: 1019px;
+  top: 2995px;
+}
+
+.footer-img {
+  position: absolute;
+  width: 595.56px;
+  height: 576.27px;
+  left: 25px;
+  top: 3218px;
+}
+
+.waiting {
+  position: absolute;
+  width: 572px;
+  height: 75px;
+  left: 706px;
+  top: 3348px;
+}
+
+.contact-bottom {
+  position: absolute;
+  width: 149px;
+  height: 48px;
+  left: 913px;
+  top: 3524px;
+
+  border-radius: 10px;
+  background: #5390d9;
+}
+
+section {
+  padding-top: 12rem;
+}
